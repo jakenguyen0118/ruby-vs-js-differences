@@ -4,7 +4,7 @@
 - [Python](https://git.generalassemb.ly/SEIR-224/W10D01-HW/blob/master/Python-HW.md)
 
 ### 2. Watch - EST TIME: 30min
-- [Toyota Production Documentary](https://www.youtube.com/watch?v=k4-eJsFdxaUToyota Production Documentary)
+- [Toyota Production Documentary](https://www.youtube.com/watch?v=k4-eJsFdxaU)
 
 ### 3. Read - EST TIME: 30min
 - [Multiple inheritance](https://en.wikipedia.org/wiki/Multiple_inheritance)
