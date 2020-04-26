@@ -10,8 +10,7 @@
 - [Multiple inheritance](https://en.wikipedia.org/wiki/Multiple_inheritance)
 
 ### 3. Algo Practice - EST TIME: 1hr
-- [Add two arrays](https://git.generalassemb.ly/SEIR-224/W07D05-HW/blob/master/ALGO.MD)
-
+- [Add Digits](https://git.generalassemb.ly/SEIR-224/W10D01-HW/blob/master/ALGO.MD)
 
 ### 4.  Interview Practice - EST TIME: 20min
 1. Create a new Google Doc called ***Tech Interview Questions** and turn sharing on.
