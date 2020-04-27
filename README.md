@@ -12,7 +12,10 @@
 ### 3. Algo Practice - EST TIME: 1hr
 - [Add Digits](https://git.generalassemb.ly/SEIR-224/W10D01-HW/blob/master/ALGO.MD)
 
-### 4.  Interview Practice - EST TIME: 20min
+### 4. Project feedback
+- [Group Project Evaluations](https://docs.google.com/forms/d/187dZ0ZZwEiuTsfhSZZfqHhES9dJZpQBVzDyks_GJmV4/edit?usp=sharing)
+
+### 5.  Interview Practice - EST TIME: 20min
 1. Create a new Google Doc called ***Tech Interview Questions** and turn sharing on.
 2. Add and answer the following question: 
    - **In Python everything is an object? Provide one or more examples**.
