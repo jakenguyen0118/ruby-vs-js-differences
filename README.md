@@ -6,7 +6,7 @@
 ### 2. Read/Watch/Do the Following - EST TIME: 40min
 
 ### 3. Algo Practice - EST TIME: 1hr
-- [Add Digits](https://git.generalassemb.ly/SEIR-224/W10D01-HW/blob/master/ALGO.MD)
+- [Add Digits](https://git.generalassemb.ly/SEIR-526/ruby-algo-add_digits)
 
 ### 4.  Interview Practice - EST TIME: 20min
 - Add and answer the following question: 
