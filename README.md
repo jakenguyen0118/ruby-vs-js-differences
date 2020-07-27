@@ -2,6 +2,7 @@
 
 ### 1. Ruby Practice: 1hr
 - [Ruby](https://git.generalassemb.ly/SEIR-526/ruby-basics-hw)
+- When completed submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form). 
 
 ### 2. Read/Watch/Do the Following - EST TIME: 40min
 
