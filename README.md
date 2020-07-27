@@ -11,5 +11,5 @@
 
 ### 4.  Interview Practice - EST TIME: 20min
 - Add and answer the following question: 
-   - **In Ruby everything is an object? Provide one or more examples**.
+   - **Name one major difference between JS and Ruby data types.  Of course provide one or more examples**.
 - All answers must be at least a paragraph in length however the more you write the more you have to talk about.
