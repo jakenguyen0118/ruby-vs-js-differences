@@ -1,6 +1,7 @@
 # W10D01-HW
 
 ### 1. Ruby Practice: 1hr
+-  [Group Feedback](https://docs.google.com/forms/d/1FAtu5r6qtdOWAcjudi9ofGX6HrKBgFIsnXrZMTarppk/edit) Please take a moment to fill out this form to provide feedback on your teammates.
 -  [Ruby](js-vs-ruby.md)
 -  When completed submit your homework [here](https://docs.google.com/forms/d/e/1FAIpQLSeroos9mbUxkYhzETYq4dylzqb_il07tKHBby2YPLkqb0Wr9Q/viewform). 
 
