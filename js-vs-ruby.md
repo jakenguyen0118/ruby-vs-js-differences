@@ -26,9 +26,8 @@ Create a new file called `differences.rb`and add all your code in there.
 Write a method that accepts a name from the user and then returns it. Here's the javascript: 
 
 ```
-const getName = () => {
-  let name = prompt("what is your name?");
-  return name;
+const getName = (name) => {
+  return `hello there:  ${name}`;
 };
 ```
 
